@@ -1,0 +1,19 @@
+{
+  "name": "rpi-sense-hat",
+  "version": "1.0.0",
+  "description": "RPI Sense Hat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadams9/rpi-sense-hat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadams9/rpi-sense-hat/issues"
+  },
+  "homepage": "https://github.com/sadams9/rpi-sense-hat#readme"
+}
